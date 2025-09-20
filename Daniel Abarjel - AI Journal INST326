@@ -7,3 +7,8 @@ Week 1:
 This week, I used very little AI while working on the exercises. I asked ChatGPT to remind me of the syntax for how to use strip() and how to use .find(). I learned the syntax for those through the  examples ChatGPT provided. I also asked ChatGPT if there was a better way to do print values without individually making f-strings for each value, but settled on just making individual f-strings anyway, because I didn't want to put all the values into a list like suggested. 
 
 Here is the link to my week 1 chat: https://chatgpt.com/share/68c76159-30e0-8001-8475-8ca40acd2fba
+
+Week 2:
+This week, I used some AI while working on the exercises. I used ChatGPT to discover and teach me about enumerating. "Enumerate" proved to be very useful and returns the index and the item, which skips calling the index separately, and is cleaner. I didn't really need AI for the rest of it. 
+
+Link to week 2 chat: https://chatgpt.com/share/68cdf566-b334-8001-ad17-38c275dfbc85
