@@ -16,3 +16,7 @@ Link to week 2 chat: https://chatgpt.com/share/68cdf566-b334-8001-ad17-38c275dfb
 Week 3: 
 This week, I asked ChatGPT to teach me about .join(), which proved to be very useful for completing the weekly exercises.
 Link to week 3 chat: https://chatgpt.com/c/68d9fedb-d928-832a-8aac-15ecf06a20c5
+
+Week 4:
+This week, AI played a bigger role in helping me complete the assignment. For questions 10 and 13, I kept getting AssertionErrors no matter what I tried so I input my code, the test, and the error into ChatGPT in order to help me solve the errors. ChatGPT helped me add .strip to the end of my code for #13 and change the test for 10 because no matter what I did, it wouldn't pass due to the values provided in the test. 
+Link to week 4 chat: https://chatgpt.com/share/68e321eb-4a28-8001-b3b6-2768f30a8d36
