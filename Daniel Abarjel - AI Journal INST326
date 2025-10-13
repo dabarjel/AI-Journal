@@ -20,3 +20,6 @@ Link to week 3 chat: https://chatgpt.com/c/68d9fedb-d928-832a-8aac-15ecf06a20c5
 Week 4:
 This week, AI played a bigger role in helping me complete the assignment. For questions 10 and 13, I kept getting AssertionErrors no matter what I tried so I input my code, the test, and the error into ChatGPT in order to help me solve the errors. ChatGPT helped me add .strip to the end of my code for #13 and change the test for 10 because no matter what I did, it wouldn't pass due to the values provided in the test. 
 Link to week 4 chat: https://chatgpt.com/share/68e321eb-4a28-8001-b3b6-2768f30a8d36
+
+Week 5:
+This week involved more AI use than previous weeks due to the function library project. For the function library project, ChatGPT was used to help debug some of our functions and ensure we were doing things in an optimal way. After writing the basis for the functions, we would often input them to ChatGPT and ask for suggestions and improvements. Many times, we didn't make any changes, but ChatGPT was helpful for fixing small problems and writing and adding comments to our code. I also used ChatGPT to help me format some files the right way and help me understand and use GitHub better, which proved to be very effective and useful.
