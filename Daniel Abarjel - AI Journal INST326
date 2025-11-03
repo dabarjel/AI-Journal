@@ -27,3 +27,6 @@ This week involved more AI use than previous weeks due to the function library p
 Week 6:
 This week involved a decent bit of AI help just as a reminder on some of the concepts we learned about, and to review some of my code segments. I think it proved to be very helpful this week, especially with concept review. AI isn't that good at generating code, but it's fairly strong at explaining nuances and catching problems in your code. 
 Link to week 6 chat: https://chatgpt.com/share/68feb943-f7a4-8001-a18f-af21f5f9ae6b
+
+Week 7:
+This week involved a good bit of AI usage. I used ChatGPT to review my code and ensure it was functioning properly. I used ChatGPT many times to help me fix errors that often were simple syntax errors or stuff that was just annoying to spot and I missed. I also used ChatGPT to help me clean up some of my code. I noticed that many times I was rewriting code instead of calling functions. I used AI to help me find where those situations possibly were, and asked it to suggest ways I could improve my code by reducing repetition. My end result was cleaner code, which didn't rewrite code and used my functions instead. I didn't really use ChatGPT to generate much code, more as an aid to spot and fix errors. 
