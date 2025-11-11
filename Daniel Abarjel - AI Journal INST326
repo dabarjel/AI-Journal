@@ -30,3 +30,6 @@ Link to week 6 chat: https://chatgpt.com/share/68feb943-f7a4-8001-a18f-af21f5f9a
 
 Week 7:
 This week involved a good bit of AI usage. I used ChatGPT to review my code and ensure it was functioning properly. I used ChatGPT many times to help me fix errors that often were simple syntax errors or stuff that was just annoying to spot and I missed. I also used ChatGPT to help me clean up some of my code. I noticed that many times I was rewriting code instead of calling functions. I used AI to help me find where those situations possibly were, and asked it to suggest ways I could improve my code by reducing repetition. My end result was cleaner code, which didn't rewrite code and used my functions instead. I didn't really use ChatGPT to generate much code, more as an aid to spot and fix errors. 
+
+Week 8:
+This week, I used very, very little AI. I was getting an error on problem #20 for the weekly assignment and pasted the error message into Claude. Claude was very helpful at debugging the error and helped me locate where to implement my fixes. 
