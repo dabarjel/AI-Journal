@@ -35,4 +35,8 @@ Week 8:
 This week, I used very, very little AI. I was getting an error on problem #20 for the weekly assignment and pasted the error message into Claude. Claude was very helpful at debugging the error and helped me locate where to implement my fixes. 
 
 Week 9:
-This week, I used slightly more AI. This weeks excersizes were difficult to troubleshoot as I had to keep changing and adding to the starter scaffold and had lots of issues and errors. Many errors were simple syntax errors simply because I was writing code in different places all the time and messing up indentation. Claude was successful at spotting indentation errors and helped fix errors. I'd tell Claude the scenario and paste the error message, and Claude would often provide recommendations on where to fix the code. 
+This week, I used slightly more AI. This week's exercises were difficult to troubleshoot as I had to keep changing and adding to the starter scaffold and had lots of issues and errors. Many errors were simple syntax errors simply because I was writing code in different places all the time and messing up indentation. Claude was successful at spotting indentation errors and helped fix errors. I'd tell Claude the scenario and paste the error message, and Claude would often provide recommendations on where to fix the code. 
+
+Week 10:
+This week, I used a little bit of AI, specifically Claude, to help me diagnose errors and re-explain some terms.
+Here is the link to my chat: https://claude.ai/share/bfb936db-3a61-49c9-8cd1-d8977cd6261e
